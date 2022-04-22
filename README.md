@@ -5,6 +5,8 @@ https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12383
 
 开源的代码中:
 
+mainwindows.py为初始运行窗体，为各个功能提供窗体事件;
+
 scrip/get_diffimage.py为求差分图的python脚本;
 
 scrip/create_dataset.py为生成数据集的python脚本;
