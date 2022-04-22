@@ -1,6 +1,15 @@
 # 介绍
-该工具箱可以用来生成多聚焦图像融合的数据集，参考文章见：https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12383
+该工具箱可以用来生成多聚焦图像融合的数据集以及差分图，参考文章见：
 
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12383
+
+开源的代码中:
+
+scrip/get_diffimage.py为求差分图的python脚本;
+
+scrip/create_dataset.py为生成数据集的python脚本;
+
+scrip/cut_imagetocompare.py为生成论文中展示图像的python脚本。
 
 
 # 数据集生成流程
