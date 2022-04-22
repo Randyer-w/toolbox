@@ -13,6 +13,17 @@ scrip/create_dataset.py为生成数据集的python脚本;
 
 scrip/cut_imagetocompare.py为生成论文中展示图像的python脚本。
 
+# 依赖项
+
+python 3.6
+
+pyqt5
+
+numpy                     1.16.2
+
+opencv-python             4.5.1.48
+
+pandas                    1.1.5
 
 # 数据集生成流程
 ![图11](https://user-images.githubusercontent.com/40713736/164642530-d14b700d-be3c-407a-9572-e3951cf377f8.jpg)
