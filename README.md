@@ -1,3 +1,2 @@
 # 数据集生成流程
-
-![图11](https://user-images.githubusercontent.com/40713736/164639647-35cc0a74-b480-487a-b6c0-e4ff920052c6.png)
+![图11](https://user-images.githubusercontent.com/40713736/164641351-8201dbb8-abfc-43e1-bb22-6fadf51d16fd.svg)
